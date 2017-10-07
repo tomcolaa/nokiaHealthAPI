@@ -1,0 +1,12 @@
+.button {
+	position: relative;
+	background-color: #124191;
+	color: #ffffff;
+	font-family: Arial;
+	width: 150px;
+	height: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	cursor: pointer;
+	text-align: center;
+}
